@@ -34,7 +34,7 @@ if counter == 10:
     counter = 0
 ```
 
-To send request the application requires some variables from the page source. Use BeautifulSoup library to parse the webpage
+To send request the application requires some data from the page source. Use BeautifulSoup library to parse the webpage
 ```
 data = {
     'login': login,
